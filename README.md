@@ -1,2 +1,2 @@
 # analise_stores_csv
- Análise do arquivo stores.csv
+ Análise de dados do arquivo stores.csv
